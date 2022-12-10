@@ -1,3 +1,5 @@
+ESEMPIO CARINO ANCHE SULLA GESTIONE DEGLI ERRORI E DEI MESSAGGI DEI CAMPI ERRATI
+
 # registration-login-springboot-security-thymeleaf
 registration-login-module using springboot, spring mvc, spring security and thymeleaf
 
